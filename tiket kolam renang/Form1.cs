@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
-namespace booking_tiket_bioskop
+namespace tiket_kolam_renang
 {
     public partial class Form1 : Form
     {
