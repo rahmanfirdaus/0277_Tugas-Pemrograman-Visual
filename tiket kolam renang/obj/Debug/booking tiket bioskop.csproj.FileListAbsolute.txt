@@ -1,0 +1,10 @@
+D:\ridhoo\booking tiket bioskop\booking tiket bioskop\bin\Debug\booking tiket bioskop.exe.config
+D:\ridhoo\booking tiket bioskop\booking tiket bioskop\bin\Debug\booking tiket bioskop.exe
+D:\ridhoo\booking tiket bioskop\booking tiket bioskop\bin\Debug\booking tiket bioskop.pdb
+D:\ridhoo\booking tiket bioskop\booking tiket bioskop\obj\Debug\booking tiket bioskop.csproj.AssemblyReference.cache
+D:\ridhoo\booking tiket bioskop\booking tiket bioskop\obj\Debug\booking_tiket_bioskop.Form1.resources
+D:\ridhoo\booking tiket bioskop\booking tiket bioskop\obj\Debug\booking_tiket_bioskop.Properties.Resources.resources
+D:\ridhoo\booking tiket bioskop\booking tiket bioskop\obj\Debug\booking tiket bioskop.csproj.GenerateResource.cache
+D:\ridhoo\booking tiket bioskop\booking tiket bioskop\obj\Debug\booking tiket bioskop.csproj.CoreCompileInputs.cache
+D:\ridhoo\booking tiket bioskop\booking tiket bioskop\obj\Debug\booking tiket bioskop.exe
+D:\ridhoo\booking tiket bioskop\booking tiket bioskop\obj\Debug\booking tiket bioskop.pdb
