@@ -1,12 +1,22 @@
-# Tiket Kolam Renang
-Deskripsi
-Program ini adalah aplikasi berbasis Windows Forms (WinForms) yang digunakan untuk mengelola data tiket kolam renang. Aplikasi ini memungkinkan pengguna untuk menambah, menampilkan, memperbarui, dan menghapus data tiket yang tersimpan dalam database SQL Server.
-# Fitur Utama
-Menambah tiket: Pengguna dapat menambahkan data tiket dengan ID, nama, dan tanggal.
-Menampilkan tiket: Semua data tiket yang tersimpan dalam database akan ditampilkan dalam DataGridView.
-Memperbarui tiket: Pengguna dapat memperbarui informasi tiket berdasarkan ID yang dimasukkan.
-Menghapus tiket: Tiket dapat dihapus berdasarkan ID yang dimasukkan.
-# Teknologi yang Digunakan
-Bahasa Pemrograman: C#
-Framework: .NET Windows Forms
-Database: SQL Server
+🧑‍💼 Aplikasi Manajemen Karyawan (CRUD dengan WinForms & SQL Server)
+Aplikasi desktop sederhana menggunakan C# WinForms yang memungkinkan pengguna untuk melakukan operasi CRUD (Create, Read, Update, Delete) pada database karyawan menggunakan SQL Server. Aplikasi ini menampilkan data dalam DataGridView, serta menyediakan fitur untuk menambahkan dan menghapus data karyawan.
+
+📌 Fitur Utama
+Melihat data karyawan dalam bentuk tabel
+
+Menambahkan data karyawan baru
+
+Menghapus data karyawan berdasarkan ID
+
+Mengosongkan form setelah input
+
+Antarmuka sederhana menggunakan Windows Forms
+
+🛠 Teknologi yang Digunakan
+C# WinForms (.NET Framework)
+
+SQL Server
+
+ADO.NET (SqlConnection, SqlCommand, SqlDataAdapter)
+
+DataGridView (komponen GUI)
